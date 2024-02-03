@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "theme": "elegant"
+    },
+    "basics": {
+        "name": "Gavin(Jialang) Zhang",
+        "label": "Software Engineer",
+        "image": "https://media.licdn.com/dms/image/C5603AQGV4JPCg4Snhg/profile-displayphoto-shrink_400_400/0/1657904193167?e=1709164800&v=beta&t=sY1wIYNMWVvIORcovoLgPTwNRHqWKCpIUNcy5ke5gbQ",
+        "summary": "I'm software engineer who's capable of building desktop applications, web applications and embed applications from ground up idenpendently. Coding has been a hobby since I was in junior high school. Till this day I'm still very curious about new technology, and exited about building applications to satisfy business needs.",
+        "website": "http://gavindev.com",
+        "email": "gavinz0228@gmail.com",
+        "location": {
+            "city": "New York City",
+            "countryCode": "US"
+        },
+        "profiles": [
+            {
+                "url": "https://github.com/gavinz0228",
+                "username": "gavinz0228",
+                "network": "github"
+            }
+        ]
+    },
+    "education": [
+        {
+            "endDate": "2016-6-25",
+            "startDate": "2012-09-01",
+            "area": "Computer Science",
+            "studyType": "Bachelors",
+            "institution": "City Univerisity of New York - Brooklyn College"
+        },
+        {
+            "endDate": "",
+            "startDate": "2023-01-22",
+            "area": "Computer Science",
+            "studyType": "Master",
+            "institution": "Johns Hopkins University"
+        }
+    ],
+    "skills": [
+        {
+            "keywords": [
+                "HTML / CSS / Bootstrap",
+                "Javascript / Typescript",
+                "React"
+            ],
+            "level": "Senior",
+            "name": "Frontend"
+        },
+        {
+            "keywords": [
+                "C++",
+                "C#",
+                "Python",
+                "Microsoft SQL Server",
+                "MongoDB"
+            ],
+            "level": "Senior",
+            "name": "Backend"
+        },
+        {
+            "keywords": [
+                "AWS",
+                "Docker"
+            ],
+            "level": "Senior",
+            "name": "Devops"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Defender of the Internet",
+            "awarder": "Fight For The Future"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "C++, Python, DMP, BAS"
+            ],
+            "pinned": true,
+            "summary": "I worked in a backend team who build complex data pipeline to serve data for the porfolio management software in our buy-side trading platform AIM",
+            "website": "https://www.bloomberg.com/company/",
+            "name": "Bloomberg L.P.",
+            "position": "Senior Software Engineer",
+            "startDate": "2021-07-19"
+        },
+        {
+            "highlights": [
+                "Specialize in fixed-income-related products' design and development(bonds, mortgage-backed securities, repo, and etc.)",
+                "Optimize back end asynchronous trade and other event processing",
+                "Analyze and solve yield, amortization, interest accrual and cash-flows-related calculation issues",
+                "Use Microsoft tech stack C#, MS SQL Server, .Net MVC, Entity Framework"
+            ],
+            "summary": "Participate in core development for SS&C's next-generation investment operations and accounting system - Singularity",
+            "website": "https://www.ssctech.com/",
+            "location": "New York City, NY, US",
+            "pinned": true,
+            "name": "SS&C Technologies",
+            "position": "Software Developer",
+            "startDate": "2019-12-01",
+            "endDate": "2021-07-15"
+        },
+        {
+            "summary": "Chimera is an internally managed, Residential Credit Hybrid Mortgage Real Estate Investment Trust (REIT). Founded in 2007, we strive to provide attractive risk-adjusted returns, using leverage, to our shareholders.",
+            "website": "https://www.chimerareit.com/",
+            "name": "Chimera Investment Corporation",
+            "location": "New York City, NY, US",
+            "position": "Software Developer",
+            "startDate": "2016-01-01",
+            "endDate": "2019-11-30",
+            "highlights": [
+                "Integrated BlackRock’s Aladdin with SS&C’s CAMRA accounting system",
+                "Built SSRS reports and other business tools related to mortgage-backed-related financial products for internal users",
+                "built applications to process time series data, bank statements , and etc from different sources ",
+                "Improved and maintained a job configuration system to automate daily processes",
+                "Built other small tools for bridging the software purchased from different vendors"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music / Singing / Guitar"
+        },
+        {
+            "name": "Hiking"
+        },
+        {
+            "name": "Coding(Web), Microcontroller, Raspberry Pi"
+        }
+    ]
+}
